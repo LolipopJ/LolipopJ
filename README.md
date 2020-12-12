@@ -6,8 +6,6 @@
 - :star: **Bulb**
 - :pill: **Yaowan**
 
-#### What am I doing in the last week :keyboard:
-
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
