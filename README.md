@@ -13,14 +13,13 @@
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 13 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Powerpoint               1 hr 7 mins         ██████████████████████░░░   91.41% 
-Word                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.59%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 13 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
