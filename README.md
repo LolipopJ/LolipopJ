@@ -13,13 +13,13 @@
 
 ```text
 💬 Programming Languages: 
-Vue.js                   2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-uestc-mirrors-preview    2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
