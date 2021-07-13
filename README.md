@@ -7,7 +7,7 @@
 - :pill: **Yaowan**
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -32,5 +32,5 @@ design-patterns-for-human34 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 12/07/2021
+ Last Updated on 13/07/2021
 <!--END_SECTION:waka-->
