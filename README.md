@@ -14,16 +14,16 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    34 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Excel                    34 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          34 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 30/11/2021
+ Last Updated on 01/12/2021
 <!--END_SECTION:waka-->
