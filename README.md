@@ -14,17 +14,16 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               40 mins             ████████████████████████░   96.52% 
-EJS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.48%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-hexo-theme-archer        41 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 25/12/2021
+ Last Updated on 26/12/2021
 <!--END_SECTION:waka-->
