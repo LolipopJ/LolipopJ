@@ -8,7 +8,7 @@
 - :milky_way: [**Resume**](https://cdn.jsdelivr.net/gh/lolipopj/resume/export/resume-en.pdf)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -31,5 +31,5 @@ lab-code-deployment-syste2 hrs 44 mins       ████░░░░░░░�
 ```
 
 
- Last Updated on 03/02/2022 00:54:47 UTC
+ Last Updated on 04/02/2022 00:56:03 UTC
 <!--END_SECTION:waka-->
