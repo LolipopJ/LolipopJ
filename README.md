@@ -8,7 +8,7 @@
 - :milky_way: [**Resume**](https://cdn.jsdelivr.net/gh/lolipopj/resume/export/resume-en.pdf)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -33,5 +33,5 @@ uestc-gate-access        27 mins             ██░░░░░░░░░�
 ```
 
 
- Last Updated on 16/02/2022 01:02:00 UTC
+ Last Updated on 17/02/2022 00:54:44 UTC
 <!--END_SECTION:waka-->
