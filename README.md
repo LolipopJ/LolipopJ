@@ -8,7 +8,7 @@
 - :milky_way: [**Resume**](https://lolipopj.github.io/resume/) || [**PDF**](https://cdn.jsdelivr.net/gh/lolipopj/resume/export/resume-en.pdf)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -32,5 +32,5 @@ LolipopJ                 1 min               ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 01/03/2022 01:12:39 UTC
+ Last Updated on 02/03/2022 01:08:17 UTC
 <!--END_SECTION:waka-->
