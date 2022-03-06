@@ -14,17 +14,16 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 31 mins             █████████████████████████   99.87% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-notebook                 31 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 05/03/2022 01:06:40 UTC
+ Last Updated on 06/03/2022 01:05:04 UTC
 <!--END_SECTION:waka-->
