@@ -8,22 +8,27 @@
 - :milky_way: [**Resume**](https://lolipopj.github.io/resume/) || [**PDF**](https://cdn.jsdelivr.net/gh/lolipopj/resume/export/resume-en.pdf)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    3 hrs 18 mins       ██████████████████████░░░   88.31% 
+JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.47% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Powerpoint               3 hrs 18 mins       ██████████████████████░░░   88.31% 
+VS Code                  26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          3 hrs 18 mins       ██████████████████████░░░   88.31% 
+telly-bot                26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69%
 
 ```
 
 
- Last Updated on 06/03/2022 01:05:04 UTC
+ Last Updated on 07/03/2022 01:06:53 UTC
 <!--END_SECTION:waka-->
