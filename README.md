@@ -14,17 +14,16 @@
 
 ```text
 💬 Programming Languages: 
-Bash                     0 secs              █████████████████████████   100.0% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-telly-bot                0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 06/04/2022 01:18:26 UTC
+ Last Updated on 07/04/2022 01:17:06 UTC
 <!--END_SECTION:waka-->
