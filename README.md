@@ -8,22 +8,24 @@
 - :milky_way: [**Resume**](https://lolipopj.github.io/resume/) || [**PDF**](https://cdn.jsdelivr.net/gh/lolipopj/resume/export/resume-en.pdf)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+Other                    40 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-Word                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+Word                     40 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+Unknown Project          40 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 07/05/2022 01:20:17 UTC
+ Last Updated on 08/05/2022 01:27:57 UTC
 <!--END_SECTION:waka-->
