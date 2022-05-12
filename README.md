@@ -8,7 +8,7 @@
 - :milky_way: [**Resume**](https://lolipopj.github.io/resume/) || [**PDF**](https://cdn.jsdelivr.net/gh/lolipopj/resume/export/resume-en.pdf)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -27,5 +27,5 @@ Unknown Project          54 mins             ███████████�
 ```
 
 
- Last Updated on 11/05/2022 01:47:09 UTC
+ Last Updated on 12/05/2022 01:42:41 UTC
 <!--END_SECTION:waka-->
