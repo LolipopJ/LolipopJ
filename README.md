@@ -10,22 +10,22 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    1 min               █████████████████████████   100.0%
+Other                    5 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-Powerpoint               1 min               █████████████████████████   100.0%
+Word                     5 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Unknown Project          1 min               █████████████████████████   100.0%
+Unknown Project          5 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 23/06/2022 01:43:55 UTC
+ Last Updated on 24/06/2022 01:43:10 UTC
 <!--END_SECTION:waka-->
