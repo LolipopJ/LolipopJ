@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -27,5 +27,5 @@ Unknown Project          5 mins              ███████████�
 ```
 
 
- Last Updated on 24/06/2022 01:43:10 UTC
+ Last Updated on 25/06/2022 01:45:40 UTC
 <!--END_SECTION:waka-->
