@@ -12,6 +12,20 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 15/09/2022 02:09:48 UTC
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+
+ Last Updated on 16/09/2022 02:12:07 UTC
 <!--END_SECTION:waka-->
