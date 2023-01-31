@@ -8,12 +8,18 @@
             xmlUrl="https://javascriptweekly.com/rss/" htmlUrl="https://javascriptweekly.com/"/>
       <outline text="掘金前端本周最热" title="掘金前端本周最热" type="rss" 
             xmlUrl="https://rsshub.app/juejin/trending/frontend/weekly" htmlUrl="https://juejin.im/frontend?sort=weekly_hottest"/>
+      <outline text="阮一峰的网络日志" title="阮一峰的网络日志" type="rss" 
+            xmlUrl="https://feeds.feedburner.com/ruanyifeng" htmlUrl="http://www.ruanyifeng.com/blog/"/>
+      <outline text="MDH Weekly 前端周刊" title="MDH Weekly 前端周刊" type="rss" 
+            xmlUrl="https://mdhweekly.com/rss.xml" htmlUrl="https://mdhweekly.com/"/>
       <outline text="前端早早聊 - 文章" title="前端早早聊 - 文章" type="rss" 
             xmlUrl="https://rsshub.app/zaozao/article/quality" htmlUrl="https://www.zaozao.run/article/quality"/>
       <outline text="美团技术团队" title="美团技术团队" type="rss" 
             xmlUrl="https://rsshub.app/meituan/tech/home" htmlUrl="https://tech.meituan.com/feed/"/>
       <outline text="极客公园 - 资讯" title="极客公园 - 资讯" type="rss" 
             xmlUrl="https://rsshub.app/geekpark/breakingnews" htmlUrl="https://www.geekpark.net"/>
+      <outline text="Fresh Frontend Links" title="Fresh Frontend Links" type="rss" 
+            xmlUrl="https://medium.com/feed/@frontender-ua" htmlUrl="https://medium.com/@frontender-ua?source=rss-bba528c37a0c------2"/>
       <outline text="泛式 的 bilibili 动态" title="泛式 的 bilibili 动态" type="rss" 
             xmlUrl="https://rsshub.app/bilibili/user/dynamic/63231" htmlUrl="https://space.bilibili.com/63231/dynamic"/>
       <outline text="Twitter @DIYgod💡" title="Twitter @DIYgod💡" type="rss" 
