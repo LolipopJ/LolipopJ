@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+      <outline text="JavaScript Weekly" title="JavaScript Weekly" type="rss" 
+            xmlUrl="https://javascriptweekly.com/rss/" htmlUrl="https://javascriptweekly.com/"/>
+      <outline text="掘金前端本周最热" title="掘金前端本周最热" type="rss" 
+            xmlUrl="https://rsshub.app/juejin/trending/frontend/weekly" htmlUrl="https://juejin.im/frontend?sort=weekly_hottest"/>
+      <outline text="前端早早聊 - 文章" title="前端早早聊 - 文章" type="rss" 
+            xmlUrl="https://rsshub.app/zaozao/article/quality" htmlUrl="https://www.zaozao.run/article/quality"/>
+      <outline text="美团技术团队" title="美团技术团队" type="rss" 
+            xmlUrl="https://rsshub.app/meituan/tech/home" htmlUrl="https://tech.meituan.com/feed/"/>
+      <outline text="极客公园 - 资讯" title="极客公园 - 资讯" type="rss" 
+            xmlUrl="https://rsshub.app/geekpark/breakingnews" htmlUrl="https://www.geekpark.net"/>
+      <outline text="泛式 的 bilibili 动态" title="泛式 的 bilibili 动态" type="rss" 
+            xmlUrl="https://rsshub.app/bilibili/user/dynamic/63231" htmlUrl="https://space.bilibili.com/63231/dynamic"/>
+      <outline text="Twitter @DIYgod💡" title="Twitter @DIYgod💡" type="rss" 
+            xmlUrl="https://rsshub.app/twitter/user/DIYgod" htmlUrl="https://twitter.com/DIYgod"/>
+</body>
+</opml>
