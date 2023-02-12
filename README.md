@@ -8,9 +8,9 @@
 - :milky_way: [**Resume**](https://lolipopj.github.io/resume/) || [**PDF**](https://cdn.jsdelivr.net/gh/lolipopj/resume/export/resume-en.pdf)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-946%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-947%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -35,5 +35,5 @@ scene-center             45 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 11/02/2023 01:13:19 UTC
+ Last Updated on 12/02/2023 01:22:45 UTC
 <!--END_SECTION:waka-->
