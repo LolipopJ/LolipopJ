@@ -8,7 +8,7 @@
 - :milky_way: [**Resume**](https://lolipopj.github.io/resume/) || [**PDF**](https://cdn.jsdelivr.net/gh/lolipopj/resume/export/resume-en.pdf)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C033%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C040%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
@@ -34,5 +34,5 @@ pc-portal-fe-re-6315     48 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 11/03/2023 01:10:49 UTC
+ Last Updated on 12/03/2023 01:21:20 UTC
 <!--END_SECTION:waka-->
