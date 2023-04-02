@@ -8,7 +8,7 @@
 - :milky_way: [**Resume**](https://lolipopj.github.io/resume/) || [**PDF**](https://cdn.jsdelivr.net/gh/lolipopj/resume/export/resume-en.pdf)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C110%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C114%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -34,5 +34,5 @@ workshop                 21 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 01/04/2023 01:12:20 UTC
+ Last Updated on 02/04/2023 01:13:20 UTC
 <!--END_SECTION:waka-->
