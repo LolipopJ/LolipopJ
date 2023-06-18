@@ -8,7 +8,7 @@
 - :milky_way: [**Resume**](https://lolipopj.github.io/resume/) || [**PDF**](https://cdn.jsdelivr.net/gh/lolipopj/resume/export/resume-en.pdf)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C393%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C399%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -33,5 +33,5 @@ foura-eaos-login-fe      19 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 17/06/2023 01:14:19 UTC
+ Last Updated on 18/06/2023 01:39:00 UTC
 <!--END_SECTION:waka-->
