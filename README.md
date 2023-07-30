@@ -8,7 +8,7 @@
 - :milky_way: [**Resume**](https://lolipopj.github.io/resume/) || [**PDF**](https://cdn.jsdelivr.net/gh/lolipopj/resume/export/resume-en.pdf)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C515%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C518%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -34,5 +34,5 @@ hexo-theme-archer        10 mins             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 29/07/2023 01:09:04 UTC
+ Last Updated on 30/07/2023 01:11:46 UTC
 <!--END_SECTION:waka-->
