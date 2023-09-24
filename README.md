@@ -8,7 +8,7 @@
 - :milky_way: [**Resume**](https://lolipopj.github.io/resume/) || [**PDF**](https://cdn.jsdelivr.net/gh/lolipopj/resume/export/resume-en.pdf)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C711%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C717%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -34,5 +34,5 @@ recept-pc                1 hr 39 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/09/2023 00:57:59 UTC
+ Last Updated on 24/09/2023 01:03:13 UTC
 <!--END_SECTION:waka-->
