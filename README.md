@@ -8,25 +8,23 @@
 - :milky_way: [**Resume**](https://lolipopj.github.io/resume/) || [**PDF**](https://cdn.jsdelivr.net/gh/lolipopj/resume/export/resume-en.pdf)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C795%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C795%20hrs%2048%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               59 mins             █████████████████████████   98.89 % 
-Less                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+TypeScript               17 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  59 mins             █████████████████████████   100.00 % 
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-perf-fe                  44 mins             ███████████████████░░░░░░   75.16 % 
-gts-assets-center        14 mins             ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+gts-assets-center        17 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/10/2023 01:00:25 UTC
+ Last Updated on 21/10/2023 00:58:47 UTC
 <!--END_SECTION:waka-->
