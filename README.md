@@ -8,23 +8,27 @@
 - :milky_way: [**Resume**](https://lolipopj.github.io/resume/) || [**PDF**](https://cdn.jsdelivr.net/gh/lolipopj/resume/export/resume-en.pdf)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C795%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C796%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               44 mins             █████████████████████████   100.00 % 
+TypeScript               2 hrs 39 mins       █████████████████████████   99.50 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Less                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-VS Code                  44 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-gts-assets-center        44 mins             █████████████████████████   100.00 % 
+gts-assets-center        2 hrs 19 mins       ██████████████████████░░░   86.97 % 
+damo-portal-fe           15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+damo-portal-m-fe         4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 
 
- Last Updated on 23/10/2023 01:01:01 UTC
+ Last Updated on 24/10/2023 01:00:12 UTC
 <!--END_SECTION:waka-->
