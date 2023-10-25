@@ -8,7 +8,7 @@
 - :milky_way: [**Resume**](https://lolipopj.github.io/resume/) || [**PDF**](https://cdn.jsdelivr.net/gh/lolipopj/resume/export/resume-en.pdf)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C796%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C798%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -30,5 +30,5 @@ damo-portal-m-fe         4 mins              █░░░░░░░░░░�
 ```
 
 
- Last Updated on 24/10/2023 01:00:12 UTC
+ Last Updated on 25/10/2023 01:00:27 UTC
 <!--END_SECTION:waka-->
