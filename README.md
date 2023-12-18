@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C831%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,5 +34,5 @@ LolipopJ.github.io       1 hr 1 min          █░░░░░░░░░░�
 ```
 
 
- Last Updated on 17/12/2023 01:08:27 UTC
+ Last Updated on 18/12/2023 01:05:03 UTC
 <!--END_SECTION:waka-->
