@@ -8,7 +8,7 @@
 - :milky_way: [**Resume**](https://lolipopj.github.io/resume/) || [**PDF**](https://cdn.jsdelivr.net/gh/lolipopj/resume/export/resume-en.pdf)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C857%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C862%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -34,5 +34,5 @@ fd-gmall-core            45 mins             █░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/12/2023 01:00:25 UTC
+ Last Updated on 24/12/2023 01:06:45 UTC
 <!--END_SECTION:waka-->
