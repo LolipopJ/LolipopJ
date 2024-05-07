@@ -8,7 +8,7 @@
 - :milky_way: [**Resume**](https://lolipopj.github.io/resume/) || [**PDF**](https://cdn.jsdelivr.net/gh/lolipopj/resume/export/resume-en.pdf)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C890%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C890%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -16,16 +16,16 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 36 mins             █████████████████████████   99.85 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Markdown                 46 mins             █████████████████████████   99.88 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.00 % 
+VS Code                  46 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LolipopJ.github.io       36 mins             █████████████████████████   100.00 % 
+LolipopJ.github.io       46 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/05/2024 01:04:40 UTC
+ Last Updated on 07/05/2024 01:03:45 UTC
 <!--END_SECTION:waka-->
