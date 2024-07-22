@@ -1,8 +1,8 @@
 ### Hi this is JasonSung😊
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=LolipopJ&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&theme=vue">
+<img align="right" src="https://github-readme-stats-beige-beta-77.vercel.app/api?username=LolipopJ&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&theme=vue">
 
-Describe myself as a flexible wood in forests, code Ninja Lv.23.
+Describe myself as a flexible wood in forests, code Ninja Lv.24.
 
 - 🖥️ Web Developer
 - 📝 [Blog](https://blog.towind.fun/) || More about [me](https://blog.towind.fun/about)
