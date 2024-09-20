@@ -5,7 +5,7 @@
 Describe myself as a flexible wood in forests, code Ninja Lv.24.
 
 - 🖥️ Web Developer
-- 📝 [Blog](https://blog.towind.fun/) || More about [me](https://blog.towind.fun/about)
+- 📝 [Blog](https://blog.towind.fun/) || [Timeline](https://timeline.towind.fun) || More about [me](https://blog.towind.fun/about)
 - 🪤 [Resume](https://resume.towind.fun/?lang=zh) || [PDF](https://cdn.jsdelivr.net/gh/lolipopj/resume/exports/resume-zh.pdf)
 - 🏙️ Life continues in Chengdu, China.
 
