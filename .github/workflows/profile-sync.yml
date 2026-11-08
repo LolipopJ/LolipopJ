@@ -45,34 +45,28 @@ jobs:
       - name: Generate Habits & Activity Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics.svg
+          filename: metrics.plugin.habits.charts.svg
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          user: LolipopJ
-          template: classic
           base: ""
           config_timezone: Asia/Shanghai
           output_action: none
 
           plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
+          plugin_habits_facts: no
           plugin_habits_charts: yes
 
       # 生成 Lowlighter Metrics 全年日历活动图
       - name: Generate Full Year Calendar Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: github-metrics-calendar.svg
+          filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
-          user: LolipopJ
-          template: classic
           base: ""
           config_timezone: Asia/Shanghai
           output_action: none
 
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
 
       # 从 Docker 挂载的 /metrics_renders 拷贝出所有 SVG，并统一单次提交推送到 GitHub
       - name: Copy Metrics Renders and Commit All Changes (Single Push)

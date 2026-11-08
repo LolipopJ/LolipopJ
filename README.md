@@ -27,15 +27,8 @@
 
 ### 📈 Coding Activity & Calendar
 
-<p align="center">
-  <!-- 时段与习惯柱状图 (Commit activity per hour & per day of week) -->
-  <img src="https://raw.githubusercontent.com/LolipopJ/LolipopJ/master/github-metrics.svg" alt="Metrics Habits Bar Chart" />
-</p>
-
-<p align="center">
-  <!-- 全年活动日历图 (Full Year Commit Calendar) -->
-  <img src="https://raw.githubusercontent.com/LolipopJ/LolipopJ/master/github-metrics-calendar.svg" alt="Full Year Calendar" />
-</p>
+<img src="./metrics.plugin.habits.charts.svg" alt="Habits Chart" />
+<img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Full Year Calendar" />
 
 ---
 
@@ -43,7 +36,7 @@
 
 <img align="right" src="https://github-stats-extended.vercel.app/api?username=LolipopJ&hide_rank=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dracula" />
 
-#### 🔀 Latest Pull Requests
+#### 🚀 Latest Pull Requests
 
 <!-- LATEST-PRS:START -->
 - [Iskongkongyo/BetterX#3 - feat: add author social links to post details](https://github.com/Iskongkongyo/BetterX/pull/3) - Created: `2026-11-06`
@@ -62,14 +55,14 @@
 
 ### 📝 Written Blogs
 
-#### 🚀 Latest Published Blogs
+#### ✒️ Latest Published Blogs
 
 <!-- BLOG-LATEST-PUBLISHED:START -->
 - [为了减少 Codex 的词元消耗，提升上下文的使用效率，我都折腾了些啥](https://blog.towind.cn/posts/codex-reduce-tokens) - Published: `2026-10-13`
 - [关于我使用大模型技术本地实时广东话转文字这件事](https://blog.towind.cn/posts/realtime-stt-cantonese-to-ch) - Published: `2026-06-11`
 <!-- BLOG-LATEST-PUBLISHED:END -->
 
-#### 🔄 Latest Updated Blogs
+#### 📖 Latest Updated Blogs
 
 <!-- BLOG-LATEST-UPDATED:START -->
 - [最终幻想 14 / Final Fantasy XIV 国际服入坑指北](https://blog.towind.cn/posts/ffxiv-global) - Updated: `2026-10-31`

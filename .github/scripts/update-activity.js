@@ -35,7 +35,7 @@ async function main() {
   const prMarkdown = prs.length > 0 
     ? prs.map(item => {
         const repo = extractRepo(item.repository_url);
-        return `- [${repo}#${item.number} - ${item.title}](${item.html_url}) - Created: \`${formatDate(item.created_at)}\``;
+        return `- [${repo}#${item.number} - ${item.title}](${item.html_url}) - created: \`${formatDate(item.created_at)}\``;
       }).join('\n')
     : '- No External Pull Requests';
 
@@ -45,7 +45,7 @@ async function main() {
   const issueMarkdown = issues.length > 0
     ? issues.map(item => {
         const repo = extractRepo(item.repository_url);
-        return `- [${repo}#${item.number} - ${item.title}](${item.html_url}) - Opened: \`${formatDate(item.created_at)}\``;
+        return `- [${repo}#${item.number} - ${item.title}](${item.html_url}) - opened: \`${formatDate(item.created_at)}\``;
       }).join('\n')
     : '- No External Issues';
 

@@ -76,7 +76,7 @@ async function updateReadme() {
     .slice(0, 2);
 
   const publishedMarkdown = latestPublished
-    .map(post => `- [${post.title}](${post.link}) - Published: \`${formatDate(post.pubDate)}\``)
+    .map(post => `- [${post.title}](${post.link}) - published: \`${formatDate(post.pubDate)}\``)
     .join('\n');
 
   // 2. 按 atom:updated 降序取最新更新的 3 篇
@@ -85,7 +85,7 @@ async function updateReadme() {
     .slice(0, 3);
 
   const updatedMarkdown = latestUpdated
-    .map(post => `- [${post.title}](${post.link}) - Updated: \`${formatDate(post.updatedDate)}\``)
+    .map(post => `- [${post.title}](${post.link}) - updated: \`${formatDate(post.updatedDate)}\``)
     .join('\n');
 
   console.log('\n--- Latest Published (2) ---');
