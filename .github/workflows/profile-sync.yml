@@ -1,0 +1,88 @@
+name: Update GitHub Profile
+
+on:
+  schedule:
+    # 每天 UTC 00:00 (北京时间 08:00) 统一执行一次
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 支持手动一键触发
+  push:
+    branches: ["master", "main"]
+    paths:
+      - ".github/workflows/profile-sync.yml"
+      - ".github/scripts/**"
+
+concurrency:
+  group: profile-sync
+  cancel-in-progress: true
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 24
+
+      # 1. 生成 Lowlighter Metrics 时段与习惯柱状图
+      - name: Generate Habits & Activity Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: LolipopJ
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+          output_action: none
+
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+      # 生成 Lowlighter Metrics 全年日历活动图
+      - name: Generate Full Year Calendar Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics-calendar.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          user: LolipopJ
+          template: classic
+          base: ""
+          config_timezone: Asia/Shanghai
+          output_action: none
+
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+
+      # 获取提交到非自己仓库的最新 2 个 PR 和最新 3 个 Issue 并写入 README
+      - name: Update External PRs & Issues
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node .github/scripts/update-activity.js
+
+      # 同步博客文章 (读取 https://lolipopj.github.io/rss.xml，按 pubDate 取前 2 篇，按 atom:updated 取前 3 篇)
+      - name: Update Latest & Updated Blog Posts
+        run: node .github/scripts/update-blogs.js
+
+      # 统一将所有修改一次性提交并推送
+      - name: Commit and Push All Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No changes detected to commit."
+          else
+            git commit -m "chore: auto-update profile readme, metrics and activity [skip ci]"
+            git push origin HEAD:${{ github.ref }}
+          fi
