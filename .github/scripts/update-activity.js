@@ -26,6 +26,26 @@ function extractRepo(repoUrl) {
   return repoUrl.replace('https://api.github.com/repos/', '');
 }
 
+function getPRStatus(item) {
+  if (item.pull_request?.merged_at) {
+    return 'Merged';
+  }
+  if (item.state === 'closed') {
+    return 'Closed';
+  }
+  if (item.draft) {
+    return 'Draft';
+  }
+  return 'Open';
+}
+
+function getIssueStatus(item) {
+  if (item.state === 'closed') {
+    return 'Closed';
+  }
+  return 'Open';
+}
+
 async function main() {
   console.log('Fetching external PRs and Issues...');
 
@@ -35,7 +55,8 @@ async function main() {
   const prMarkdown = prs.length > 0 
     ? prs.map(item => {
         const repo = extractRepo(item.repository_url);
-        return `- [${repo}#${item.number} - ${item.title}](${item.html_url}) <small>- created: \`${formatDate(item.created_at)}\`</small>`;
+        const status = getPRStatus(item);
+        return `- [${repo}#${item.number} - ${item.title}](${item.html_url}) \${}^{\\text{${status}}}_{\\texttt{${formatDate(item.created_at)}}}\$`;
       }).join('\n')
     : '- No External Pull Requests';
 
@@ -45,7 +66,8 @@ async function main() {
   const issueMarkdown = issues.length > 0
     ? issues.map(item => {
         const repo = extractRepo(item.repository_url);
-        return `- [${repo}#${item.number} - ${item.title}](${item.html_url}) <small>- opened: \`${formatDate(item.created_at)}\`</small>`;
+        const status = getIssueStatus(item);
+        return `- [${repo}#${item.number} - ${item.title}](${item.html_url}) \${}^{\\text{${status}}}_{\\texttt{${formatDate(item.created_at)}}}\$`;
       }).join('\n')
     : '- No External Issues';
 

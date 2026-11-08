@@ -39,20 +39,20 @@
 #### 🚀 Latest Pull Requests
 
 <!-- LATEST-PRS:START -->
-- [Iskongkongyo/BetterX#3 - feat: add author social links to post details](https://github.com/Iskongkongyo/BetterX/pull/3) <small>- created: `2026-11-06`</small>
-- [Souma-Sumire/FFXIVChnTextPatch-Souma#102 - docs(adventure): fix missing content](https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma/pull/102) <small>- created: `2026-06-04`</small>
-- [Souma-Sumire/FFXIVChnTextPatch-Souma#101 - [WIP] docs: update resources with new export syntax & improve the translation content](https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma/pull/101) <small>- created: `2026-06-04`</small>
-- [kelvin124124/ChatTranslated#96 - feat(cache): persist LRU translation cache to disk](https://github.com/kelvin124124/ChatTranslated/pull/96) <small>- created: `2026-05-14`</small>
+- [Iskongkongyo/BetterX#3 - feat: add author social links to post details](https://github.com/Iskongkongyo/BetterX/pull/3) ${}^{\text{Merged}}_{\texttt{2026-11-06}}$
+- [Souma-Sumire/FFXIVChnTextPatch-Souma#102 - docs(adventure): fix missing content](https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma/pull/102) ${}^{\text{Merged}}_{\texttt{2026-06-04}}$
+- [Souma-Sumire/FFXIVChnTextPatch-Souma#101 - [WIP] docs: update resources with new export syntax & improve the translation content](https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma/pull/101) ${}^{\text{Closed}}_{\texttt{2026-06-04}}$
+- [kelvin124124/ChatTranslated#96 - feat(cache): persist LRU translation cache to disk](https://github.com/kelvin124124/ChatTranslated/pull/96) ${}^{\text{Merged}}_{\texttt{2026-05-14}}$
 <!-- LATEST-PRS:END -->
 
 #### 💬 Latest Issues
 
 <!-- LATEST-ISSUES:START -->
-- [mdx-js/mdx-analyzer#543 - Auto-complete image path fails to recognize newly added images after initial completion](https://github.com/mdx-js/mdx-analyzer/issues/543) <small>- opened: `2026-10-19`</small>
-- [vladelaina/BongoCat#70 - [✨Feature Request]: Add Full Power Mode to BongoCat](https://github.com/vladelaina/BongoCat/issues/70) <small>- opened: `2026-09-23`</small>
-- [MapleRecall/reshade-FFXIV-EnhancedGamePlay#2 - 预设包含的 PandaFX 效果配置项会导致闪烁问题](https://github.com/MapleRecall/reshade-FFXIV-EnhancedGamePlay/issues/2) <small>- opened: `2026-08-30`</small>
-- [Souma-Sumire/FFXIVChnTextPatch-Souma#103 - 待补充的汉化资源](https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma/issues/103) <small>- opened: `2026-06-04`</small>
-- [SwingTheVine/Wplace-BlueMarble#504 - [BUG] Plugin not inject at page start, causing some early requests not spied](https://github.com/SwingTheVine/Wplace-BlueMarble/issues/504) <small>- opened: `2026-05-20`</small>
+- [mdx-js/mdx-analyzer#543 - Auto-complete image path fails to recognize newly added images after initial completion](https://github.com/mdx-js/mdx-analyzer/issues/543) ${}^{\text{Open}}_{\texttt{2026-10-19}}$
+- [vladelaina/BongoCat#70 - [✨Feature Request]: Add Full Power Mode to BongoCat](https://github.com/vladelaina/BongoCat/issues/70) ${}^{\text{Open}}_{\texttt{2026-09-23}}$
+- [MapleRecall/reshade-FFXIV-EnhancedGamePlay#2 - 预设包含的 PandaFX 效果配置项会导致闪烁问题](https://github.com/MapleRecall/reshade-FFXIV-EnhancedGamePlay/issues/2) ${}^{\text{Open}}_{\texttt{2026-08-30}}$
+- [Souma-Sumire/FFXIVChnTextPatch-Souma#103 - 待补充的汉化资源](https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma/issues/103) ${}^{\text{Closed}}_{\texttt{2026-06-04}}$
+- [SwingTheVine/Wplace-BlueMarble#504 - [BUG] Plugin not inject at page start, causing some early requests not spied](https://github.com/SwingTheVine/Wplace-BlueMarble/issues/504) ${}^{\text{Closed}}_{\texttt{2026-05-20}}$
 <!-- LATEST-ISSUES:END -->
 
 ---
@@ -62,16 +62,16 @@
 #### ✒️ Latest Published Blogs
 
 <!-- BLOG-LATEST-PUBLISHED:START -->
-- [为了减少 Codex 的词元消耗，提升上下文的使用效率，我都折腾了些啥](https://blog.towind.cn/posts/codex-reduce-tokens) <small>- published: `2026-10-13`</small>
-- [关于我使用大模型技术本地实时广东话转文字这件事](https://blog.towind.cn/posts/realtime-stt-cantonese-to-ch) <small>- published: `2026-06-11`</small>
+- [为了减少 Codex 的词元消耗，提升上下文的使用效率，我都折腾了些啥](https://blog.towind.cn/posts/codex-reduce-tokens) ${}^{\text{published}}_{\texttt{2026-10-13}}$
+- [关于我使用大模型技术本地实时广东话转文字这件事](https://blog.towind.cn/posts/realtime-stt-cantonese-to-ch) ${}^{\text{published}}_{\texttt{2026-06-11}}$
 <!-- BLOG-LATEST-PUBLISHED:END -->
 
 #### 📖 Latest Updated Blogs
 
 <!-- BLOG-LATEST-UPDATED:START -->
-- [最终幻想 14 / Final Fantasy XIV 国际服入坑指北](https://blog.towind.cn/posts/ffxiv-global) <small>- updated: `2026-10-31`</small>
-- [对油猴脚本 Pixiv Previewer 进行二次开发](https://blog.towind.cn/posts/pixiv-previewer) <small>- updated: `2026-10-26`</small>
-- [为了减少 Codex 的词元消耗，提升上下文的使用效率，我都折腾了些啥](https://blog.towind.cn/posts/codex-reduce-tokens) <small>- updated: `2026-10-13`</small>
+- [最终幻想 14 / Final Fantasy XIV 国际服入坑指北](https://blog.towind.cn/posts/ffxiv-global) ${}^{\text{updated}}_{\texttt{2026-10-31}}$
+- [对油猴脚本 Pixiv Previewer 进行二次开发](https://blog.towind.cn/posts/pixiv-previewer) ${}^{\text{updated}}_{\texttt{2026-10-26}}$
+- [为了减少 Codex 的词元消耗，提升上下文的使用效率，我都折腾了些啥](https://blog.towind.cn/posts/codex-reduce-tokens) ${}^{\text{updated}}_{\texttt{2026-10-13}}$
 <!-- BLOG-LATEST-UPDATED:END -->
 
 <p align="right">
