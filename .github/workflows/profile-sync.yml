@@ -41,19 +41,20 @@ jobs:
       - name: Update Latest & Updated Blog Posts
         run: node .github/scripts/update-blogs.js
 
-      # 生成 Lowlighter Metrics 习惯与时段柱状图
-      - name: Generate Habits & Activity Metrics
+      # 生成 Lowlighter Metrics 常用编程语言图
+      - name: Generate Most Used Programming Languages Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.habits.charts.svg
+          filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           base: ""
           config_timezone: Asia/Shanghai
           output_action: none
 
-          plugin_habits: yes
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_ignored: >-
+            html, css
 
       # 生成 Lowlighter Metrics 全年日历活动图
       - name: Generate Full Year Calendar Metrics

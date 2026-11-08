@@ -18,17 +18,17 @@
 ### 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,html,css,python,git,docker,linux" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,html,css,python,git,docker,linux" />
+  <img src="./metrics.plugin.languages.svg" alt="Most Used Language" />
 </p>
 
 ---
 
 ### 📈 Coding Activity & Calendar
 
-<img src="./metrics.plugin.habits.charts.svg" alt="Habits Chart" />
-<img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Full Year Calendar" />
+<p align="center">
+  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Full Year Calendar" />
+</p>
 
 ---
 
