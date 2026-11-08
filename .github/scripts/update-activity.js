@@ -29,23 +29,23 @@ function extractRepo(repoUrl) {
 async function main() {
   console.log('Fetching external PRs and Issues...');
 
-  // 1. 获取提交的最新的两个非自己仓库 Github PR
+  // 1. 获取提交的最新的 4 个非自己仓库 Github PR
   const prData = await fetchGitHub('author:LolipopJ type:pr -user:LolipopJ');
-  const prs = (prData.items || []).slice(0, 2);
+  const prs = (prData.items || []).slice(0, 4);
   const prMarkdown = prs.length > 0 
     ? prs.map(item => {
         const repo = extractRepo(item.repository_url);
-        return `- [${repo}#${item.number} - ${item.title}](${item.html_url}) - created: \`${formatDate(item.created_at)}\``;
+        return `- [${repo}#${item.number} - ${item.title}](${item.html_url}) <small>- created: \`${formatDate(item.created_at)}\`</small>`;
       }).join('\n')
     : '- No External Pull Requests';
 
-  // 2. 获取提交的最新的三个非自己仓库 Github Issue
+  // 2. 获取提交的最新的 5 个非自己仓库 Github Issue
   const issueData = await fetchGitHub('author:LolipopJ type:issue -user:LolipopJ');
-  const issues = (issueData.items || []).slice(0, 3);
+  const issues = (issueData.items || []).slice(0, 5);
   const issueMarkdown = issues.length > 0
     ? issues.map(item => {
         const repo = extractRepo(item.repository_url);
-        return `- [${repo}#${item.number} - ${item.title}](${item.html_url}) - opened: \`${formatDate(item.created_at)}\``;
+        return `- [${repo}#${item.number} - ${item.title}](${item.html_url}) <small>- opened: \`${formatDate(item.created_at)}\`</small>`;
       }).join('\n')
     : '- No External Issues';
 

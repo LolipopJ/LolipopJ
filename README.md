@@ -18,7 +18,7 @@
 ### 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,python,git,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=ts,react,vue,nodejs,tailwind,python,nginx,docker,linux" />
   <img src="./metrics.plugin.languages.svg" alt="Most Used Language" />
 </p>
 
@@ -76,6 +76,4 @@
 
 ---
 
-<p align="center">
-  <sub>How about groping lights through young ages...? 🌠</sub>
-</p>
+<p align="center">How about groping lights through young ages...? 🌠</p>
