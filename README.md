@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full-stack+Developer;Passionate+about+Frontend+%26+Cloud+Native;How+about+groping+lights+through+young+ages...%3F+%F0%9F%8C%A0" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Full-stack+Developer;Passionate+about+Frontend+%26+Cloud+Native;Groping+lights+through+young+ages...%3F+%F0%9F%8C%A0" />
 </p>
 
 ---
@@ -22,19 +22,6 @@
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,html,css,python,git,docker,linux" />
   </a>
 </p>
-
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LolipopJ&show_icons=true&theme=dracula&count_private=true&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LolipopJ&layout=compact&theme=dracula&hide_border=true" height="150" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LolipopJ&theme=dracula&hide_border=true" />
-</div>
 
 ---
 
@@ -53,6 +40,8 @@
 ---
 
 ### 🐙 Open Source Contributions
+
+<img align="right" src="https://github-stats-extended.vercel.app/api?username=LolipopJ&hide_rank=true&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dracula" />
 
 #### 🔀 Latest Pull Requests
 

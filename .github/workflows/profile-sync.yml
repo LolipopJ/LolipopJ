@@ -31,7 +31,17 @@ jobs:
         with:
           node-version: 24
 
-      # 1. 生成 Lowlighter Metrics 时段与习惯柱状图
+      # 获取提交到非自己仓库的最新 2 个 PR 和最新 3 个 Issue 并写入 README
+      - name: Update External PRs & Issues
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node .github/scripts/update-activity.js
+
+      # 同步博客文章 (读取 https://lolipopj.github.io/rss.xml，按 pubDate 取前 2 篇，按 atom:updated 取前 3 篇)
+      - name: Update Latest & Updated Blog Posts
+        run: node .github/scripts/update-blogs.js
+
+      # 生成 Lowlighter Metrics 习惯与时段柱状图
       - name: Generate Habits & Activity Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -64,25 +74,17 @@ jobs:
           plugin_calendar: yes
           plugin_calendar_limit: 1
 
-      # 获取提交到非自己仓库的最新 2 个 PR 和最新 3 个 Issue 并写入 README
-      - name: Update External PRs & Issues
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node .github/scripts/update-activity.js
-
-      # 同步博客文章 (读取 https://lolipopj.github.io/rss.xml，按 pubDate 取前 2 篇，按 atom:updated 取前 3 篇)
-      - name: Update Latest & Updated Blog Posts
-        run: node .github/scripts/update-blogs.js
-
-      # 统一将所有修改一次性提交并推送
-      - name: Commit and Push All Changes
+      # 从 Docker 挂载的 /metrics_renders 拷贝出所有 SVG，并统一单次提交推送到 GitHub
+      - name: Copy Metrics Renders and Commit All Changes (Single Push)
         run: |
+          sudo cp -f /metrics_renders/* ./ 2>/dev/null || true
+          sudo chown -R $USER:$USER ./
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
           if git diff --staged --quiet; then
             echo "No changes detected to commit."
           else
-            git commit -m "chore: auto-update profile readme, metrics and activity [skip ci]"
+            git commit -m "chore: auto-update profile readme and metrics"
             git push origin HEAD:${{ github.ref }}
           fi
