@@ -79,8 +79,9 @@ async function updateReadme() {
     .map(post => `- [${post.title}](${post.link}) \${}^{\\text{published}}_{\\texttt{${formatDate(post.pubDate)}}}\$`)
     .join('\n');
 
-  // 2. 按 atom:updated 降序取最新更新的 3 篇
-  const latestUpdated = [...items]
+  // 2. 按 atom:updated 降序取最新更新的 3 篇（发布日期等于更新日期的不视为更新）
+  const latestUpdated = items
+    .filter(post => formatDate(post.updatedDate) !== formatDate(post.pubDate))
     .sort((a, b) => b.updatedDate - a.updatedDate)
     .slice(0, 3);
 

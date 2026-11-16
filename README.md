@@ -69,9 +69,9 @@
 #### 📖 Latest Updated Blogs
 
 <!-- BLOG-LATEST-UPDATED:START -->
-- [基于 BAAH 自动化《蔚蓝档案》长草期日常，以模拟器游玩国际服繁中版为例](https://blog.towind.cn/posts/blue-archive-automation-baah) ${}^{\text{updated}}_{\texttt{2026-11-10}}$
 - [最终幻想 14 / Final Fantasy XIV 国际服入坑指北](https://blog.towind.cn/posts/ffxiv-global) ${}^{\text{updated}}_{\texttt{2026-10-31}}$
 - [对油猴脚本 Pixiv Previewer 进行二次开发](https://blog.towind.cn/posts/pixiv-previewer) ${}^{\text{updated}}_{\texttt{2026-10-26}}$
+- [使用 Nginx 治理我的服务](https://blog.towind.cn/posts/nginx-services) ${}^{\text{updated}}_{\texttt{2026-09-04}}$
 <!-- BLOG-LATEST-UPDATED:END -->
 
 <p align="right">
