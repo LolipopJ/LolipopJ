@@ -49,9 +49,9 @@ function getIssueStatus(item) {
 async function main() {
   console.log('Fetching external PRs and Issues...');
 
-  // 1. 获取提交的最新的 4 个非自己仓库 Github PR
+  // 1. 获取提交的最新的 5 个非自己仓库 Github PR
   const prData = await fetchGitHub('author:LolipopJ type:pr -user:LolipopJ');
-  const prs = (prData.items || []).slice(0, 4);
+  const prs = (prData.items || []).slice(0, 5);
   const prMarkdown = prs.length > 0 
     ? prs.map(item => {
         const repo = extractRepo(item.repository_url);

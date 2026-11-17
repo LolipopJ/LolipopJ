@@ -70,28 +70,28 @@ async function updateReadme() {
     return;
   }
 
-  // 1. 按 pubDate 降序取最新发布的 2 篇
+  // 1. 按 pubDate 降序取最新发布的 5 篇
   const latestPublished = [...items]
     .sort((a, b) => b.pubDate - a.pubDate)
-    .slice(0, 2);
+    .slice(0, 5);
 
   const publishedMarkdown = latestPublished
     .map(post => `- [${post.title}](${post.link}) \${}^{\\text{published}}_{\\texttt{${formatDate(post.pubDate)}}}\$`)
     .join('\n');
 
-  // 2. 按 atom:updated 降序取最新更新的 3 篇（发布日期等于更新日期的不视为更新）
+  // 2. 按 atom:updated 降序取最新更新的 5 篇（发布日期等于更新日期的不视为更新）
   const latestUpdated = items
     .filter(post => formatDate(post.updatedDate) !== formatDate(post.pubDate))
     .sort((a, b) => b.updatedDate - a.updatedDate)
-    .slice(0, 3);
+    .slice(0, 5);
 
   const updatedMarkdown = latestUpdated
     .map(post => `- [${post.title}](${post.link}) \${}^{\\text{updated}}_{\\texttt{${formatDate(post.updatedDate)}}}\$`)
     .join('\n');
 
-  console.log('\n--- Latest Published (2) ---');
+  console.log('\n--- Latest Published (5) ---');
   console.log(publishedMarkdown);
-  console.log('\n--- Latest Updated (3) ---');
+  console.log('\n--- Latest Updated (5) ---');
   console.log(updatedMarkdown);
 
   let readme = fs.readFileSync('README.md', 'utf8');
