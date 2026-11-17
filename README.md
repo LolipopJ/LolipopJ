@@ -43,6 +43,7 @@
 - [Iskongkongyo/BetterX#3 - feat: add author social links to post details](https://github.com/Iskongkongyo/BetterX/pull/3) ${}^{\text{Merged}}_{\texttt{2026-11-06}}$
 - [Souma-Sumire/FFXIVChnTextPatch-Souma#102 - docs(adventure): fix missing content](https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma/pull/102) ${}^{\text{Merged}}_{\texttt{2026-06-04}}$
 - [Souma-Sumire/FFXIVChnTextPatch-Souma#101 - [WIP] docs: update resources with new export syntax & improve the translation content](https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma/pull/101) ${}^{\text{Closed}}_{\texttt{2026-06-04}}$
+- [kelvin124124/ChatTranslated#96 - feat(cache): persist LRU translation cache to disk](https://github.com/kelvin124124/ChatTranslated/pull/96) ${}^{\text{Merged}}_{\texttt{2026-05-14}}$
 <!-- LATEST-PRS:END -->
 
 #### 💬 Latest Issues
@@ -64,6 +65,9 @@
 <!-- BLOG-LATEST-PUBLISHED:START -->
 - [基于 BAAH 自动化《蔚蓝档案》长草期日常，以模拟器游玩国际服繁中版为例](https://blog.towind.cn/posts/blue-archive-automation-baah) ${}^{\text{published}}_{\texttt{2026-11-10}}$
 - [为了减少 Codex 的词元消耗，提升上下文的使用效率，我都折腾了些啥](https://blog.towind.cn/posts/codex-reduce-tokens) ${}^{\text{published}}_{\texttt{2026-10-13}}$
+- [关于我使用大模型技术本地实时广东话转文字这件事](https://blog.towind.cn/posts/realtime-stt-cantonese-to-ch) ${}^{\text{published}}_{\texttt{2026-06-11}}$
+- [最终幻想 14 国际服客户端汉化学习笔记](https://blog.towind.cn/posts/ffxiv-chn-text-patch-note) ${}^{\text{published}}_{\texttt{2026-06-05}}$
+- [最近 Hermes Agent 也太火爆了，让我看看怎么个事儿](https://blog.towind.cn/posts/hermes-agent-setup) ${}^{\text{published}}_{\texttt{2026-04-13}}$
 <!-- BLOG-LATEST-PUBLISHED:END -->
 
 #### 📖 Latest Updated Blogs
@@ -72,6 +76,8 @@
 - [最终幻想 14 / Final Fantasy XIV 国际服入坑指北](https://blog.towind.cn/posts/ffxiv-global) ${}^{\text{updated}}_{\texttt{2026-10-31}}$
 - [对油猴脚本 Pixiv Previewer 进行二次开发](https://blog.towind.cn/posts/pixiv-previewer) ${}^{\text{updated}}_{\texttt{2026-10-26}}$
 - [使用 Nginx 治理我的服务](https://blog.towind.cn/posts/nginx-services) ${}^{\text{updated}}_{\texttt{2026-09-04}}$
+- [不再是小画家了……自动化 Wplace 绘画清日常](https://blog.towind.cn/posts/wplace-painter-automatic) ${}^{\text{updated}}_{\texttt{2026-08-06}}$
+- [最终幻想 14 国际服客户端汉化学习笔记](https://blog.towind.cn/posts/ffxiv-chn-text-patch-note) ${}^{\text{updated}}_{\texttt{2026-07-28}}$
 <!-- BLOG-LATEST-UPDATED:END -->
 
 <p align="right">
