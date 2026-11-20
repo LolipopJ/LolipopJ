@@ -39,11 +39,11 @@
 #### 🚀 Latest Pull Requests
 
 <!-- LATEST-PRS:START -->
+- [Ocrosoft/PixivPreviewer#71 - refactor(preview): resolve artwork links on hover](https://github.com/Ocrosoft/PixivPreviewer/pull/71) ${}^{\text{Merged}}_{\texttt{2026-11-19}}$
 - [Iskongkongyo/BetterX#4 - feat(author-links): 支持主页信息流展示、短链还原、被动资料拦截与站点图标缓存](https://github.com/Iskongkongyo/BetterX/pull/4) ${}^{\text{Open}}_{\texttt{2026-11-16}}$
 - [Iskongkongyo/BetterX#3 - feat: add author social links to post details](https://github.com/Iskongkongyo/BetterX/pull/3) ${}^{\text{Merged}}_{\texttt{2026-11-06}}$
 - [Souma-Sumire/FFXIVChnTextPatch-Souma#102 - docs(adventure): fix missing content](https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma/pull/102) ${}^{\text{Merged}}_{\texttt{2026-06-04}}$
 - [Souma-Sumire/FFXIVChnTextPatch-Souma#101 - [WIP] docs: update resources with new export syntax & improve the translation content](https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma/pull/101) ${}^{\text{Closed}}_{\texttt{2026-06-04}}$
-- [kelvin124124/ChatTranslated#96 - feat(cache): persist LRU translation cache to disk](https://github.com/kelvin124124/ChatTranslated/pull/96) ${}^{\text{Merged}}_{\texttt{2026-05-14}}$
 <!-- LATEST-PRS:END -->
 
 #### 💬 Latest Issues
