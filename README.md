@@ -49,11 +49,11 @@
 #### 💬 Latest Issues
 
 <!-- LATEST-ISSUES:START -->
+- [Iskongkongyo/BetterX#5 - [bug report] 启动“进入用户主页默认查看”功能后，访问用户主页查看任意内容并返回后，会跳转到默认查看的页面](https://github.com/Iskongkongyo/BetterX/issues/5) ${}^{\text{Open}}_{\texttt{2026-11-21}}$
 - [mdx-js/mdx-analyzer#543 - Auto-complete image path fails to recognize newly added images after initial completion](https://github.com/mdx-js/mdx-analyzer/issues/543) ${}^{\text{Open}}_{\texttt{2026-10-19}}$
 - [vladelaina/BongoCat#70 - [✨Feature Request]: Add Full Power Mode to BongoCat](https://github.com/vladelaina/BongoCat/issues/70) ${}^{\text{Open}}_{\texttt{2026-09-23}}$
 - [MapleRecall/reshade-FFXIV-EnhancedGamePlay#2 - 预设包含的 PandaFX 效果配置项会导致闪烁问题](https://github.com/MapleRecall/reshade-FFXIV-EnhancedGamePlay/issues/2) ${}^{\text{Open}}_{\texttt{2026-08-30}}$
 - [Souma-Sumire/FFXIVChnTextPatch-Souma#103 - 待补充的汉化资源](https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma/issues/103) ${}^{\text{Closed}}_{\texttt{2026-06-04}}$
-- [SwingTheVine/Wplace-BlueMarble#504 - [BUG] Plugin not inject at page start, causing some early requests not spied](https://github.com/SwingTheVine/Wplace-BlueMarble/issues/504) ${}^{\text{Closed}}_{\texttt{2026-05-20}}$
 <!-- LATEST-ISSUES:END -->
 
 ---
