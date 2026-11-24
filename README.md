@@ -41,7 +41,7 @@
 <!-- LATEST-PRS:START -->
 - [BlueArchiveArisHelper/BAAH#444 - feat(gui): 添加“每日任务建议”校验清单](https://github.com/BlueArchiveArisHelper/BAAH/pull/444) ${}^{\text{Open}}_{\texttt{2026-11-20}}$
 - [Ocrosoft/PixivPreviewer#71 - refactor(preview): resolve artwork links on hover](https://github.com/Ocrosoft/PixivPreviewer/pull/71) ${}^{\text{Merged}}_{\texttt{2026-11-19}}$
-- [Iskongkongyo/BetterX#4 - feat(author-links): 支持主页信息流展示、短链还原、被动资料拦截与站点图标缓存](https://github.com/Iskongkongyo/BetterX/pull/4) ${}^{\text{Open}}_{\texttt{2026-11-16}}$
+- [Iskongkongyo/BetterX#4 - feat(author-links): 支持主页信息流展示、短链还原、被动资料拦截与站点图标缓存](https://github.com/Iskongkongyo/BetterX/pull/4) ${}^{\text{Merged}}_{\texttt{2026-11-16}}$
 - [Iskongkongyo/BetterX#3 - feat: add author social links to post details](https://github.com/Iskongkongyo/BetterX/pull/3) ${}^{\text{Merged}}_{\texttt{2026-11-06}}$
 - [Souma-Sumire/FFXIVChnTextPatch-Souma#102 - docs(adventure): fix missing content](https://github.com/Souma-Sumire/FFXIVChnTextPatch-Souma/pull/102) ${}^{\text{Merged}}_{\texttt{2026-06-04}}$
 <!-- LATEST-PRS:END -->
@@ -63,11 +63,11 @@
 #### ✒️ Latest Published Blogs
 
 <!-- BLOG-LATEST-PUBLISHED:START -->
+- [我是如何使用 ChatGPT 生成令我满意的 AI 照片的](https://blog.towind.cn/posts/ai-generate-photos-with-chatgpt/) ${}^{\text{published}}_{\texttt{2026-11-23}}$
 - [基于 BAAH 自动化《蔚蓝档案》长草期日常，以模拟器游玩国际服繁中版为例](https://blog.towind.cn/posts/blue-archive-automation-baah/) ${}^{\text{published}}_{\texttt{2026-11-10}}$
 - [为了减少 Codex 的词元消耗，提升上下文的使用效率，我都折腾了些啥](https://blog.towind.cn/posts/codex-reduce-tokens/) ${}^{\text{published}}_{\texttt{2026-10-13}}$
 - [关于我使用大模型技术本地实时广东话转文字这件事](https://blog.towind.cn/posts/realtime-stt-cantonese-to-ch/) ${}^{\text{published}}_{\texttt{2026-06-11}}$
 - [最终幻想 14 国际服客户端汉化学习笔记](https://blog.towind.cn/posts/ffxiv-chn-text-patch-note/) ${}^{\text{published}}_{\texttt{2026-06-05}}$
-- [最近 Hermes Agent 也太火爆了，让我看看怎么个事儿](https://blog.towind.cn/posts/hermes-agent-setup/) ${}^{\text{published}}_{\texttt{2026-04-13}}$
 <!-- BLOG-LATEST-PUBLISHED:END -->
 
 #### 📖 Latest Updated Blogs
