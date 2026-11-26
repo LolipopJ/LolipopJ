@@ -73,7 +73,7 @@
 #### 📖 Latest Updated Blogs
 
 <!-- BLOG-LATEST-UPDATED:START -->
-- [我是如何使用 ChatGPT 生成令我满意的 AI 照片的](https://blog.towind.cn/posts/ai-generate-photos-with-chatgpt/) ${}^{\text{updated}}_{\texttt{2026-11-24}}$
+- [我是如何使用 ChatGPT 生成令我满意的 AI 照片的](https://blog.towind.cn/posts/ai-generate-photos-with-chatgpt/) ${}^{\text{updated}}_{\texttt{2026-11-25}}$
 - [不再是小画家了……自动化 Wplace 绘画清日常](https://blog.towind.cn/posts/wplace-painter-automatic/) ${}^{\text{updated}}_{\texttt{2026-11-18}}$
 - [最终幻想 14 / Final Fantasy XIV 国际服入坑指北](https://blog.towind.cn/posts/ffxiv-global/) ${}^{\text{updated}}_{\texttt{2026-11-18}}$
 - [对油猴脚本 Pixiv Previewer 进行二次开发](https://blog.towind.cn/posts/pixiv-previewer/) ${}^{\text{updated}}_{\texttt{2026-10-26}}$
