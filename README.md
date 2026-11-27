@@ -49,7 +49,7 @@
 #### 💬 Latest Issues
 
 <!-- LATEST-ISSUES:START -->
-- [Iskongkongyo/BetterX#5 - [bug report] 启动“进入用户主页默认查看”功能后，访问用户主页查看任意内容并返回后，会跳转到默认查看的页面](https://github.com/Iskongkongyo/BetterX/issues/5) ${}^{\text{Open}}_{\texttt{2026-11-21}}$
+- [Iskongkongyo/BetterX#5 - [bug report] 启动“进入用户主页默认查看”功能后，访问用户主页查看任意内容并返回后，会跳转到默认查看的页面](https://github.com/Iskongkongyo/BetterX/issues/5) ${}^{\text{Closed}}_{\texttt{2026-11-21}}$
 - [mdx-js/mdx-analyzer#543 - Auto-complete image path fails to recognize newly added images after initial completion](https://github.com/mdx-js/mdx-analyzer/issues/543) ${}^{\text{Open}}_{\texttt{2026-10-19}}$
 - [vladelaina/BongoCat#70 - [✨Feature Request]: Add Full Power Mode to BongoCat](https://github.com/vladelaina/BongoCat/issues/70) ${}^{\text{Open}}_{\texttt{2026-09-23}}$
 - [MapleRecall/reshade-FFXIV-EnhancedGamePlay#2 - 预设包含的 PandaFX 效果配置项会导致闪烁问题](https://github.com/MapleRecall/reshade-FFXIV-EnhancedGamePlay/issues/2) ${}^{\text{Open}}_{\texttt{2026-08-30}}$
@@ -73,7 +73,7 @@
 #### 📖 Latest Updated Blogs
 
 <!-- BLOG-LATEST-UPDATED:START -->
-- [我是如何使用 ChatGPT 生成令我满意的 AI 照片的](https://blog.towind.cn/posts/ai-generate-photos-with-chatgpt/) ${}^{\text{updated}}_{\texttt{2026-11-25}}$
+- [我是如何使用 ChatGPT 生成令我满意的 AI 照片的](https://blog.towind.cn/posts/ai-generate-photos-with-chatgpt/) ${}^{\text{updated}}_{\texttt{2026-11-26}}$
 - [不再是小画家了……自动化 Wplace 绘画清日常](https://blog.towind.cn/posts/wplace-painter-automatic/) ${}^{\text{updated}}_{\texttt{2026-11-18}}$
 - [最终幻想 14 / Final Fantasy XIV 国际服入坑指北](https://blog.towind.cn/posts/ffxiv-global/) ${}^{\text{updated}}_{\texttt{2026-11-18}}$
 - [对油猴脚本 Pixiv Previewer 进行二次开发](https://blog.towind.cn/posts/pixiv-previewer/) ${}^{\text{updated}}_{\texttt{2026-10-26}}$
